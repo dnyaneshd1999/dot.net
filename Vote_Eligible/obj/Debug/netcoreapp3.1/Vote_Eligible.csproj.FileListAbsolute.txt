@@ -1,0 +1,14 @@
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.csproj.AssemblyReference.cache
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.AssemblyInfoInputs.cache
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.AssemblyInfo.cs
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.csproj.CoreCompileInputs.cache
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.exe
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.deps.json
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.runtimeconfig.json
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.runtimeconfig.dev.json
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.dll
+D:\C# .Net\Vote_Eligible\bin\Debug\netcoreapp3.1\Vote_Eligible.pdb
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.dll
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.pdb
+D:\C# .Net\Vote_Eligible\obj\Debug\netcoreapp3.1\Vote_Eligible.genruntimeconfig.cache

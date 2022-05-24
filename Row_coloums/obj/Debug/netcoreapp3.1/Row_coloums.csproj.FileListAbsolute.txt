@@ -1,0 +1,13 @@
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.exe
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.deps.json
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.runtimeconfig.json
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.runtimeconfig.dev.json
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.dll
+D:\C# .Net\Row_coloums\bin\Debug\netcoreapp3.1\Row_coloums.pdb
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.AssemblyInfoInputs.cache
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.AssemblyInfo.cs
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.csproj.CoreCompileInputs.cache
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.dll
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.pdb
+D:\C# .Net\Row_coloums\obj\Debug\netcoreapp3.1\Row_coloums.genruntimeconfig.cache

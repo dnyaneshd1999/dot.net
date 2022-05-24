@@ -1,0 +1,14 @@
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.exe
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.deps.json
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.runtimeconfig.json
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.runtimeconfig.dev.json
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.dll
+D:\C# .Net\For_Loop\bin\Debug\netcoreapp3.1\For_Loop.pdb
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.csproj.AssemblyReference.cache
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.AssemblyInfoInputs.cache
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.AssemblyInfo.cs
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.csproj.CoreCompileInputs.cache
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.dll
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.pdb
+D:\C# .Net\For_Loop\obj\Debug\netcoreapp3.1\For_Loop.genruntimeconfig.cache

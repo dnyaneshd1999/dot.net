@@ -1,0 +1,14 @@
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.exe
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.deps.json
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.runtimeconfig.json
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.runtimeconfig.dev.json
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.dll
+D:\C# .Net\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.pdb
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.csproj.AssemblyReference.cache
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.AssemblyInfoInputs.cache
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.AssemblyInfo.cs
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.csproj.CoreCompileInputs.cache
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.dll
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.pdb
+D:\C# .Net\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.genruntimeconfig.cache
