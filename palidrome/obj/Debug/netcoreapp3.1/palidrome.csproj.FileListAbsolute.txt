@@ -1,0 +1,14 @@
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.exe
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.deps.json
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.runtimeconfig.json
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.runtimeconfig.dev.json
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.dll
+D:\C# .Net\palidrome\bin\Debug\netcoreapp3.1\palidrome.pdb
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.csproj.AssemblyReference.cache
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.AssemblyInfoInputs.cache
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.AssemblyInfo.cs
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.csproj.CoreCompileInputs.cache
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.dll
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.pdb
+D:\C# .Net\palidrome\obj\Debug\netcoreapp3.1\palidrome.genruntimeconfig.cache
